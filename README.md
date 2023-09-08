@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<a href="https://t.me/officialkeshav"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/thekeshavgupta"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://instagram.com/official_.keshav"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center">
 </a>

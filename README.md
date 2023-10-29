@@ -16,7 +16,7 @@
 <a href="https://t.me/thekeshavgupta"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://instagram.com/official_.keshav"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
-  <a href="https://github.com/officialkeshav/bomber"><img title="Bomber" src="https://github-readme-stats.vercel.app/api/pin/?username=officialkeshav&repo=bomber&theme=radical"></a>
+  <a href="https://github.com/officialkeshav/Bomber-1.0"><img title="Bomber" src="https://github-readme-stats.vercel.app/api/pin/?username=officialkeshav&repo=bomber1.0&theme=radical"></a>
 
 <a href="https://github.com/officialkeshav/Fisher"><img title="Fisher" src="https://github-readme-stats.vercel.app/api/pin/?username=officialkeshav&repo=INSAGRAM-Fishing-Page&theme=highcontrast"></a>
 <p align="center">

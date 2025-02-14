@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://t.me/massbomber"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://instagram.com/official_.keshav"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">A passionate Language</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

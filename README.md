@@ -39,7 +39,7 @@
 <a href="https://github.com/officialkeshav"><img title="The keshav Gupta" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialkeshav&layout=compact"></a>
 </p>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/officialkeshav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="officialkeshav" /></a><a href="https://ko-fi.com/officialkeshav"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="officialkeshav" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/officialkeshav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="officialkeshav" /></a></p><br><br>
 
 
   
